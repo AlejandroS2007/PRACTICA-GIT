@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Trabajo de Alex y Raul para Entornos de desarrollo. Llevamos 2 días distintos.
-=======
-Trabajo de Alex y Raul para Entornos de desarrollo. Llevamos "5 meses y medio.
->>>>>>> fd2b4db (añadido cambios linea 1 para conflicto)
+
