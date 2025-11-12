@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Archivo de funcionalidad
+=======
+Trabajo de Alex y Raúl en funcionalidad
+>>>>>>> f4526900f0a8b0b253f752f74639930c93e2c4fb
